@@ -11,7 +11,7 @@ This page exists with the goal of show-off the demos that Ai Flow Solitions have
   Your browser does not support the video tag.
 </video>
 
-# Tera text Voice
+# Tera Text Voice
 
 <video width="600" controls>
   <source src="videos\Tera-Texto-Voz.mp4" type="video/mp4">
@@ -32,21 +32,21 @@ This page exists with the goal of show-off the demos that Ai Flow Solitions have
   Your browser does not support the video tag.
 </video>
 
-# Virtual assistant for vitorinos seguros company
+# Virtual Assistant Vitorinos Seguros 
 
 <video width="600" controls>
   <source src="videos\Assistente-Vitorinos-Seguros.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-# Virtuall assistent for agri group
+# Virtual Assistent Agri Group
 
 <video width="600" controls>
   <source src="videos\Assistente-Agriloja.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-# Web store for Moveis Feleciano
+# Web store Moveis Feleciano
 
 <video width="600" controls>
   <source src="videos\Web-Store-Moveis-Feliciano.mp4" type="video/mp4">
