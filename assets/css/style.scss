@@ -9,3 +9,18 @@
     background-color:#159957;
     background-image:linear-gradient(120deg, #0A2239, #176087)
   }
+.main-content{
+  text-align: center; /* Center text */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items in the flex container */
+  justify-content: center; /* Center container */
+  min-height: 100vh; /* Full screen height */
+  margin: 0 auto;}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #176087;
+  }
