@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This page exists with the goal of show-off the demos that Ai Flow Solitions have produced so far
+This page exists with the goal of show-off the demos that Ai Flow Solutions have produced so far
 
 # Data Science Multi Agents
 
@@ -11,6 +11,7 @@ This page exists with the goal of show-off the demos that Ai Flow Solitions have
   Your browser does not support the video tag.
 </video>
 
+<a href="Report_Employee_Attrition.pdf" download="Report_Employee_Attrition.pdf">Download Report</a>
 # Tera Text Voice
 
 <video width="600" controls>
