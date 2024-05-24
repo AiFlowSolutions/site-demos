@@ -10,8 +10,10 @@ This page exists with the goal of show-off the demos that Ai Flow Solutions have
   <source src="videos\Multi-Agentes-Relatório-Análise-Dados.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-<a href="Report_Employee_Attrition.pdf" download="Report_Employee_Attrition.pdf">Download Report</a>
+<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if site.github.is_project_page %}
+        <a href="Report_Employee_Attrition.pdf" download="Report_Employee_Attrition.pdf">Report Demo Download</a>
+      {% endif %}
 # Tera Text Voice
 
 <video width="600" controls>
