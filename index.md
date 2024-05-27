@@ -37,7 +37,7 @@ This page exists with the goal of show-off the demos that AI Flow Solutions have
   Your browser does not support the video tag.
 </video>
 
-# Virtual Assistant Vitorinos Seguros 
+# Virtual Assistant MVP Protótipo
 
 <video width="600" controls>
   <source src="videos\Assistente-Vitorinos-Seguros.mp4" type="video/mp4">
