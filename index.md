@@ -51,7 +51,7 @@ This page exists with the goal of show-off the demos that AI Flow Solutions have
   Your browser does not support the video tag.
 </video>
 
-# Web store MVP Protótipo
+# Web store Móveis Feliciano
 
 <video width="600" controls>
   <source src="videos\Web-Store-Moveis-Feliciano.mp4" type="video/mp4">
