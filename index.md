@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This page exists with the goal of show-off the demos that Ai Flow Solutions have produced so far
+This page exists with the goal of show-off the demos that AI Flow Solutions have produced so far
 
 # Data Science Multi Agents
 
@@ -23,7 +23,7 @@ This page exists with the goal of show-off the demos that Ai Flow Solutions have
   Your browser does not support the video tag.
 </video>
 
-# Padel Plataform
+#  Padel Plataform MVP Protótipo
 
 <video width="600" controls>
   <source src="videos\Plataforma-Padel.mp4" type="video/mp4">
@@ -44,14 +44,14 @@ This page exists with the goal of show-off the demos that Ai Flow Solutions have
   Your browser does not support the video tag.
 </video>
 
-# Virtual Assistent Agri Group
+# Virtual Assistent MVP Protótipo
 
 <video width="600" controls>
   <source src="videos\Assistente-Agriloja.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-# Web store Moveis Feleciano
+# Web store MVP Protótipo
 
 <video width="600" controls>
   <source src="videos\Web-Store-Moveis-Feliciano.mp4" type="video/mp4">
