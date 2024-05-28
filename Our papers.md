@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Paper - AI Flow Solutions
+description: This is the place where you will find our papers
 ---
 
 _yay_
